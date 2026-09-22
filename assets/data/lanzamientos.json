@@ -1,0 +1,52 @@
+[
+  {
+    "id": 101,
+    "name": "Galaxy Racers",
+    "category": "videojuegos",
+    "platform": "PC / Consolas",
+    "description": "Carreras futuristas con pistas neon y modo competitivo online.",
+    "price": 32990,
+    "image": "assets/img/launch-galaxy-racers.jpg",
+    "alt": "Autos futuristas compitiendo en una pista neon de alta velocidad"
+  },
+  {
+    "id": 102,
+    "name": "VR Starter Pack",
+    "category": "accesorios",
+    "platform": "Accesorios",
+    "description": "Pack de visor VR, controles y accesorios para experiencias inmersivas.",
+    "price": 89990,
+    "image": "assets/img/launch-vr-starter-pack.jpg",
+    "alt": "Pack de visor de realidad virtual con controles y accesorios gamer"
+  },
+  {
+    "id": 103,
+    "name": "PixelVault Gift Card",
+    "category": "digital",
+    "platform": "Digital",
+    "description": "Tarjeta digital para regalar videojuegos, accesorios o contenido descargable.",
+    "price": 19990,
+    "image": "assets/img/launch-pixelvault-gift-card.jpg",
+    "alt": "Tarjeta digital PixelVault con diseño gamer en mostrador de tienda"
+  },
+  {
+    "id": 104,
+    "name": "NovaStation 5 Slim",
+    "category": "consolas",
+    "platform": "Consola",
+    "description": "Nueva version slim con SSD rapido y rendimiento para juegos de ultima generacion.",
+    "price": 549990,
+    "image": "assets/img/launch-novastation-5-slim.jpg",
+    "alt": "Consola NovaStation 5 Slim gris con logo NOVA y control en setup gamer"
+  },
+  {
+    "id": 105,
+    "name": "HyperSound GX7",
+    "category": "accesorios",
+    "platform": "Audio gamer",
+    "description": "Audifonos con sonido envolvente, microfono desmontable y comodidad para sesiones largas.",
+    "price": 49990,
+    "image": "assets/img/launch-hypersound-gx7.jpg",
+    "alt": "Audifonos gamer HyperSound GX7 con microfono y accesorios en exhibicion"
+  }
+]
