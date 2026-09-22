@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "name": "Neon Quest",
+    "category": "videojuegos",
+    "typeLabel": "VideoGame Aventura",
+    "platform": "PS5 / Xbox / PC",
+    "description": "Juego de accion futurista con modo cooperativo.",
+    "price": 39990,
+    "image": "assets/img/catalog-neon-quest-specific.jpg",
+    "alt": "Arte promocional futurista del juego Neon Quest"
+  },
+  {
+    "id": 2,
+    "name": "Turbo Circuit",
+    "category": "videojuegos",
+    "typeLabel": "VideoGame Carreras",
+    "platform": "Nintendo / PC",
+    "description": "Competencias arcade con pistas dinamicas.",
+    "price": 34990,
+    "image": "assets/img/catalog-turbo-circuit-specific.jpg",
+    "alt": "Autos de carreras futuristas para el juego Turbo Circuit"
+  },
+  {
+    "id": 3,
+    "name": "Crystal Legends",
+    "category": "videojuegos",
+    "typeLabel": "VideoGame RPG",
+    "platform": "PS5 / PC",
+    "description": "Rol, exploracion y combates por turnos.",
+    "price": 44990,
+    "image": "assets/img/catalog-crystal-legends-specific.jpg",
+    "alt": "Escena de fantasia RPG para el juego Crystal Legends"
+  },
+  {
+    "id": 4,
+    "name": "Shadow Protocol",
+    "category": "videojuegos",
+    "typeLabel": "VideoGame Accion",
+    "platform": "PS5 / Xbox / PC",
+    "description": "Infiltracion tactica y combates en una ciudad futurista.",
+    "price": 42990,
+    "image": "assets/img/catalog-shadow-protocol-specific.jpg",
+    "alt": "Operativo tactico en ciudad futurista para Shadow Protocol"
+  },
+  {
+    "id": 5,
+    "name": "Strike Division",
+    "category": "videojuegos",
+    "typeLabel": "VideoGame Shooter",
+    "platform": "PS5 / Xbox / PC",
+    "description": "Combates multijugador competitivos con mapas dinamicos.",
+    "price": 39990,
+    "image": "assets/img/catalog-strike-division-specific.jpg",
+    "alt": "Equipo competitivo en arena futurista para Strike Division"
+  },
+  {
+    "id": 6,
+    "name": "Lost Horizon",
+    "category": "videojuegos",
+    "typeLabel": "VideoGame Supervivencia",
+    "platform": "PC / Xbox",
+    "description": "Explora, construye refugios y sobrevive en territorio hostil.",
+    "price": 31990,
+    "image": "assets/img/catalog-lost-horizon-specific.jpg",
+    "alt": "Campamento de supervivencia en territorio hostil para Lost Horizon"
+  },
+  {
+    "id": 7,
+    "name": "Empire Nexus",
+    "category": "videojuegos",
+    "typeLabel": "VideoGame Estrategia",
+    "platform": "PC",
+    "description": "Construye tu imperio y domina territorios mediante estrategia.",
+    "price": 27990,
+    "image": "assets/img/catalog-empire-nexus-specific.jpg",
+    "alt": "Mapa holografico estrategico del juego Empire Nexus"
+  },
+  {
+    "id": 8,
+    "name": "GameBox Series Z",
+    "category": "consolas",
+    "typeLabel": "Consola",
+    "platform": "Microsoft",
+    "description": "Consola disenada para juegos en 4K y tiempos de carga reducidos.",
+    "price": 499990,
+    "image": "assets/img/catalog-gamebox-series-z-specific.jpg",
+    "alt": "Consola de sobremesa GameBox Series Z con control"
+  },
+  {
+    "id": 9,
+    "name": "PocketPlay OLED",
+    "category": "consolas",
+    "typeLabel": "Consola",
+    "platform": "Portatil",
+    "description": "Consola portatil con pantalla OLED y controles desmontables.",
+    "price": 349990,
+    "image": "assets/img/catalog-pocketplay-oled-specific.jpg",
+    "alt": "Consola portatil PocketPlay OLED con controles desmontables"
+  },
+  {
+    "id": 10,
+    "name": "Control Pro X",
+    "category": "accesorios",
+    "typeLabel": "Accesorio",
+    "platform": "Multiplataforma",
+    "description": "Control ergonomico con respuesta precisa.",
+    "price": 29990,
+    "image": "assets/img/catalog-control-pro-x-specific.jpg",
+    "alt": "Control ergonomico Control Pro X de color negro y azul"
+  },
+  {
+    "id": 11,
+    "name": "DualShock Nova",
+    "category": "accesorios",
+    "typeLabel": "Accesorio",
+    "platform": "PS5",
+    "description": "Control inalambrico con vibracion avanzada y gatillos adaptativos.",
+    "price": 69990,
+    "image": "assets/img/catalog-dualshock-nova-specific.jpg",
+    "alt": "Control inalambrico DualShock Nova en blanco y grafito"
+  },
+  {
+    "id": 12,
+    "name": "Elite Control S2",
+    "category": "accesorios",
+    "typeLabel": "Accesorio",
+    "platform": "Xbox / PC",
+    "description": "Control configurable con botones traseros y perfiles personalizados.",
+    "price": 79990,
+    "image": "assets/img/catalog-elite-control-s2-specific.jpg",
+    "alt": "Control profesional Elite Control S2 con botones traseros"
+  }
+]
